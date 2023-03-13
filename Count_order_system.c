@@ -22,5 +22,6 @@ int main() {
     change(x, y);
     return 0;
 }
+
 // 10011101110101
 // 2333
